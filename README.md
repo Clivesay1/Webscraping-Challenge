@@ -13,3 +13,5 @@ Entry 6280: minor update.
 Update 5286.
 <!-- 7578 -->
 <!-- revision 9113 -->
+# Note
+Update 1047.
